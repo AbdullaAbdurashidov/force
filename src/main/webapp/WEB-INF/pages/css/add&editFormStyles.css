@@ -1,0 +1,30 @@
+#addUserPane{
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    border: 1px solid lightgrey;
+    border-radius: 30px;
+    background-color: white;
+    padding: 15px;
+    display: none;
+}
+#editUserPane{
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    border: 1px solid lightgrey;
+    border-radius: 30px;
+    background-color: white;
+    padding: 15px;
+    display: none;
+}
+#none{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}

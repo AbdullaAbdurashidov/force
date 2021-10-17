@@ -1,0 +1,38 @@
+html{
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body{
+  width: 100%;
+}
+h1.display-2{
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 3%;
+}
+form{
+  width: 40%;
+  margin: auto;
+  position: relative;
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  padding: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+form button{
+  margin-top: 20px;
+  margin-left: 43%;
+}
+form img{
+  display: block;
+  margin: auto;
+}
+form span{
+  margin-left: 35%;
+  font-size: 80%;
+}
+
+
